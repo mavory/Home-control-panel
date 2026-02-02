@@ -1,7 +1,52 @@
 # Home-control-panel
 With the ESP32-C3 you can control your smart home and other things, all wirelessly!
 
-### Bill of Materials (BOM)
+## Why did I do this?
+
+I was thinking about what project to do and I came up with this, I mainly wanted to create it because I needed some kind of device to control my smart home.
+
+## Features
+
+- 4 touch buttons
+- OLED display as an indicator of e.g. time
+- Rechargeable battery for carrying
+- Wireless compatibility
+
+## Wiring Diagram
+
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTcxMjMsInB1ciI6ImJsb2JfaWQifX0=--b2c4e6909dd5a191f0a0e8d11423718aeec311e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/circuit_image%20(2).png)
+
+## Scripts
+
+The script is designed for ESP32-C3 and is just a simple script, so just upload it, adjust the names, API,... and you're done!
+
+### How it works?
+
+When you charge the battery, you turn on the system by holding down the 1st button (as far away from the OLED as possible) and the system will connect to the network and other peripherals. Then you just need to press the buttons and, for example, your light will turn on/off.
+
+### Libraries:
+
+```
+WiFi.h
+SinricPro.h
+SinricProSwitch.h
+Wire.h
+Adafruit_GFX.h
+Adafruit_SSD1306.h
+WiFiUdp.h
+NTPClient.h
+```
+
+
+## 3D models
+
+Here is a view of the top and bottom of the case:
+
+![image](https://github.com/mavory/Home-control-panel/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202026-02-02%20204903.png?raw=true)
+
+![image](https://github.com/mavory/Home-control-panel/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202026-02-02%20205055.png?raw=true)
+
+## Bill of Materials (BOM)
 
 | Item | Quantity | Price | Link |
 | :--- | :---: | :--- | :--- |
