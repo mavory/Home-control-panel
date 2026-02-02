@@ -1,6 +1,8 @@
 # Home-control-panel
 With the ESP32-C3 you can control your smart home and other things, all wirelessly!
 
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcxODgsInB1ciI6ImJsb2JfaWQifX0=--bef1885b6b9a9bb103581271ee009071b32e2f8c/image.png)
+
 ## Why did I do this?
 
 I was thinking about what project to do and I came up with this, I mainly wanted to create it because I needed some kind of device to control my smart home.
