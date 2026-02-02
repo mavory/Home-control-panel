@@ -1,7 +1,7 @@
 # Home-control-panel
 With the ESP32-C3 you can control your smart home and other things, all wirelessly!
 
-![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcxODgsInB1ciI6ImJsb2JfaWQifX0=--bef1885b6b9a9bb103581271ee009071b32e2f8c/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTcxODgsInB1ciI6ImJsb2JfaWQifX0=--bef1885b6b9a9bb103581271ee009071b32e2f8c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
 
 ## Why did I do this?
 
