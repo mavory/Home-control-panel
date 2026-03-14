@@ -29,14 +29,24 @@ When you charge the battery, you turn on the system by holding down the 1st butt
 ### Libraries:
 
 ```
+Arduino.h
 WiFi.h
-SinricPro.h
-SinricProSwitch.h
+WebServer.h
+WiFiClientSecure.h
+Update.h
+Preferences.h
 Wire.h
-Adafruit_GFX.h
-Adafruit_SSD1306.h
-WiFiUdp.h
+WiFiUDP.h
+time.h
+esp_task_wdt.h
+SinricPro.h
+SinricProLight.h
+SinricProSwitch.h
+PubSubClient.h
+ArduinoJson.h
+U8g2lib.h
 NTPClient.h
+
 ```
 
 
