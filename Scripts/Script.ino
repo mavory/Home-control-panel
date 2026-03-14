@@ -1,6 +1,6 @@
 //WIFI AND SOMETHING ELSE
-#define WIFI_SSID   "Vory"           // WIFI
-#define WIFI_PASS   "Pazout2604"     // PASS
+#define WIFI_SSID   ""           // WIFI
+#define WIFI_PASS   ""     // PASS
 #define TZ_OFFSET   3600             // CET=3600, CEST=7200!!
 
 // I2C pro displej
