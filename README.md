@@ -70,3 +70,5 @@ Here is a view of the top and bottom of the case:
 | **Charger module / Boost converter** | 1 | $1.36 | [Laskakit](https://www.laskakit.cz/mikro-nabijecka-boost-pro-usb-powerbank-5v--usb-c/) |
 | *Shipping to CZ* | - | $3.49 | - |
 | **Total** | | **$26.55** | |
+
+YouTube video: https://youtu.be/Ri25laBwVCU?is=MO4A-QQl9mjVX3hu
